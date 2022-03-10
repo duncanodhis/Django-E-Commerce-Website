@@ -1,5 +1,5 @@
 # Django-E-Commerce-Website
-# Django E - Commerce Website
+
 
 This Project is an E - commerce Website which is Built with Django and is Currently Deployed on My [Personal E - commerce website]
 
